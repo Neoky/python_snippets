@@ -1,3 +1,6 @@
+# Snippets
+I was taking some boot camps that I found to be a lot of fun. They brought out some good challenges that helped me learn some Python tricks I wouldn't normally have self-taught.
+
 ## circle.py
 
 Little python challenge about how to use classes.
